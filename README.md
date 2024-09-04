@@ -5,6 +5,6 @@
 - Contact: andreamania10@gmail.com
 
 **Interesting links:** <br />
-<a href="https://www.linkedin.com/in/andrea-martinez-gallego/"> _**Linkedin**_ </a>
+<a href="https://www.linkedin.com/in/andrea-martinez-gallego/"> _**Linkedin**_ </a> <br />
 <a href="https://www.aimapp.es/"> _**AIM App**_ </a>
 
