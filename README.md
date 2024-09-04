@@ -1,5 +1,5 @@
 <h1>Hi! I'm Andrea Martínez Gallego! 👋</h1>
-<h3>Full-Stack programmer.</h3> 
+<h3>Full-Stack developer</h3> 
 
 - Ask me about **Python**, **Java**, **JavaScript**, **Spring Boot**, **React**, **HTML**, **CSS**, **Numpy**, **Pandas** and **Seaborn**.
 - Contact: andreamania10@gmail.com
